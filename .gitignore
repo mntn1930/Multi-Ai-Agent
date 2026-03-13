@@ -1,0 +1,7 @@
+.env
+output/
+data/ingested.txt
+data/summary.txt
+data/prioritzed.txt
+_pycache_/
+*.pyc
